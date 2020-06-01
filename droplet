@@ -1,51 +1,25 @@
-- image from kh-hathout
-Selenium URL https://drive.google.com/file/d/1B-gQZI5b-JmFl3RjApFxmG36u1BYgsWG/view?usp=sharing 
-
-
-
-
-
-Cook ksa team
-
-
-Archive
-
-
-
- 
-
-- Choose your image and click Create Droplet
-
-
-
-
-- Click on image
-
-- Choose standard
-
-
-
-
-Choose 5 $
-
-
-Choose cloud server location
-
-
-
-Password
-20200520ZCCpf9r4j@Nz4kv
-
-cookksa-20200525-from-master
-
-
-Click on create Droplet
-
-
-
-
-
-server = 167.172.206.81
-password = 20200520ZCCpf9r4j@Nz4kv
-
+repo name:
+odooapp
+repo URL:
+https://github.com/kh-hathout/github.git
+template
+pix001: ??????????
+- you should choose the cloud server 
+cloud server is
+134.122.17.144
+- access server by terminal
+ssh root@134.122.17.144
+Z$GP2wFf!Ffdg4T
+- open filezilla
+pix002- from filezilla open /odoo/custom/addons
+- open terminal and type:
+cd /odoo/custom/addons
+pix003-
+root@ubuntu-s-1vcpu-1gb-nyc1-01:/odoo/custom/addons# git config --global user.email info@kh-hathout.org
+root@ubuntu-s-1vcpu-1gb-nyc1-01:/odoo/custom/addons# git config --global user.name kh-hathout
+root@ubuntu-s-1vcpu-1gb-nyc1-01:/odoo/custom/addons# git remote add origin https://github.com/kh-hathout/DX2z-j8LTy-8n3-sY9--.git
+root@ubuntu-s-1vcpu-1gb-nyc1-01:/odoo/custom/addons# git checkout b-master
+- updata odoo app
+http://134.122.17.144:8069/web/database/manager
+- pix 04 - update odoo apps
 
