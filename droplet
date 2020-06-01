@@ -6,10 +6,10 @@ template
 pix001: ??????????
 - you should choose the cloud server 
 cloud server is
-134.122.17.144
+138.68.242.121
 - access server by terminal
-ssh root@134.122.17.144
-Z$GP2wFf!Ffdg4T
+ssh root@138.68.242.121
+202005256tn]]u3&TYy(Z_a4
 - open filezilla
 pix002- from filezilla open /odoo/custom/addons
 - open terminal and type:
